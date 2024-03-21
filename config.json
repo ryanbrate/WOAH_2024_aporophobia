@@ -1,0 +1,66 @@
+{
+    "fps_str": [
+        "../reddit_data/2015/RC_2015-01.bz2",
+        "../reddit_data/2015/RC_2015-02.bz2",
+        "../reddit_data/2015/RC_2015-03.bz2",
+        "../reddit_data/2015/RC_2015-04.bz2",
+        "../reddit_data/2015/RC_2015-05.bz2"
+    ],
+    "p_neutral": 0.004,
+    "random_seeds": {
+        "topic": 9,
+        "numpy": 5
+    },
+    "wealth_seeds": {
+        "rich_seeds": [
+            "wealthy",
+            "well-off",
+            "upper-class",
+            "millionaires",
+            "billionaires",
+            "priveleged",
+            "executives",
+            "the rich",
+            "rich people",
+            "rich ppl",
+            "rich kids",
+            "rich men",
+            "rich folks",
+            "rich guys",
+            "rich elites",
+            "rich families",
+            "upper class",
+            "elite class"
+        ],
+        "poor_seeds": [
+            "homeless",
+            "low-income",
+            "underpriveleged",
+            "disadvantaged",
+            "poor people",
+            "poor folks",
+            "poor families",
+            "on welfare",
+            "welfare recipients",
+            "lower class"
+        ]
+    },
+    "other_seeds": {
+        "black_seeds": [
+            "blacks",
+            "black people",
+            "black ppl",
+            "black kids",
+            "black guys",
+            "black men",
+            "black women",
+            "black families"
+        ],
+        "n_seeds": [
+            "negro",
+            "negros",
+            "nigger",
+            "niggers"
+        ]
+    }
+}
