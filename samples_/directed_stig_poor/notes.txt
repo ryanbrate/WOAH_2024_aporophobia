@@ -1,0 +1,3 @@
+<FALSE>, means the context is not the presumed stigmatising context
+<TRUE,FALSE>, means the context is the presumed stigmatising context, but the stigmatising concept isn't explicitly directed at people representing the wealth context
+<TRUE,TRUE>, means the stigmatising concept is clearly directed at the people representative of the wealth context in question
